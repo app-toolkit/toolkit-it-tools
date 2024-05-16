@@ -1,0 +1,15 @@
+{
+  "pluginName": "it-tools",
+  "version": "v2024.5.13-a0bc346",
+  "description": "Collection of handy online tools for developers, with great UX.",
+  "keywords": [
+    "it-tools"
+  ],
+  "entry": "/",
+  "pluginType": "ui",
+  "mode": "multi",
+  "logo": "./mstile-70x70.png",
+  "webContainer": true,
+  "author": "CorentinTh",
+  "homepage": "https://github.com/CorentinTh/it-tools"
+}
