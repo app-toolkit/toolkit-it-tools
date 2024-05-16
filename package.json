@@ -1,0 +1,11 @@
+{
+  "name": "toolkit-it-tools",
+  "version": "24.5.13",
+  "description": "Collection of handy online tools for developers, with great UX.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
